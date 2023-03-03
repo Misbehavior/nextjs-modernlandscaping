@@ -17,22 +17,6 @@ html {
   background-repeat: no-repeat;
 }
 
-.image-circle {
-  border-radius: 50%;
-  width: 450px;
-  height: 400px;
-  outline: 0.15rem solid #fbfbfb;
-}
-
-@media screen and (max-width: 490px) {
-  .image-circle {
-    border-radius: 50%;
-    width: 350px;
-    height: 300px;
-    outline: 0.15rem solid #fbfbfb;
-  }
-}
-
 @layer base {
   @font-face {
     font-family: Raleway;

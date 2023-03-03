@@ -16,10 +16,11 @@ const About = () => {
       <div className="">
         <div className=" flex justify-center xs:m-5">
           <Image
-            className="image-circle shadow-2xl"
+            alt="owner of Modern landscaping LLC"
+            className="rounded-full shadow-2xl"
             src={Pic1}
-            height={100}
-            width={100}
+            height={550}
+            width={550}
           />
         </div>
         <div className="w-full  flex justify-center items-center align-middle py-5">
